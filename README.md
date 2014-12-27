@@ -17,3 +17,6 @@ http://www.codecademy.com/snr/codebits/EPrjtT
 
 Project 6: Threadly
 http://www.codecademy.com/snr/codebits/YC1X2B
+
+Project 7: Forecast
+http://www.codecademy.com/snr/codebits/E8xMop
