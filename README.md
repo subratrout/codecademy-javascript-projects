@@ -11,3 +11,9 @@ http://www.codecademy.com/snr/codebits/rnAfdw
 
 Project 4: Bonsai
 http://www.codecademy.com/snr/codebits/OgD6mu
+
+Project 5: Pocketbook
+http://www.codecademy.com/snr/codebits/EPrjtT
+
+Project 6: Threadly
+http://www.codecademy.com/snr/codebits/YC1X2B
