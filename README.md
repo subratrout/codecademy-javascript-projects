@@ -20,3 +20,9 @@ http://www.codecademy.com/snr/codebits/YC1X2B
 
 Project 7: Forecast
 http://www.codecademy.com/snr/codebits/E8xMop
+
+Project 8: Armando-Perez
+http://www.codecademy.com/snr/codebits/7ZRunV
+
+Project 9: ListEasy
+http://www.codecademy.com/snr/codebits/bhKzv1
