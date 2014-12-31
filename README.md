@@ -26,3 +26,6 @@ http://www.codecademy.com/snr/codebits/7ZRunV
 
 Project 9: ListEasy
 http://www.codecademy.com/snr/codebits/bhKzv1
+
+Project 10: Move
+http://www.codecademy.com/snr/codebits/xieJRt
