@@ -29,3 +29,11 @@ http://www.codecademy.com/snr/codebits/bhKzv1
 
 Project 10: Move
 http://www.codecademy.com/snr/codebits/xieJRt
+
+Project 11: Newsroom
+http://www.codecademy.com/snr/codebits/tBcADs
+
+Project 12: Speakeasy
+http://www.codecademy.com/snr/codebits/DiFfBR
+
+Project 13: Millford School
