@@ -37,3 +37,10 @@ Project 12: Speakeasy
 http://www.codecademy.com/snr/codebits/DiFfBR
 
 Project 13: Millford School
+http://www.codecademy.com/snr/codebits/TOfgTC
+
+Project 14: Madison Square Market
+http://www.codecademy.com/snr/codebits/mXM87l
+
+Project 15: Move Gear
+http://www.codecademy.com/snr/codebits/B8wiaN
